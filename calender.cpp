@@ -1,4 +1,4 @@
-//Muhammad Sana Ullah Mughal (25I-3067) SE-B
+//Muhammad Sana Ullah Mughal 
 #include <iostream>
 #include <iomanip>
 #include <string>
@@ -102,3 +102,4 @@ int main()
 	}
     return 0;
 }
+
